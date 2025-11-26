@@ -1,6 +1,6 @@
 <!-- Banner Naruto -->
 <p align="center">
-  <img src=<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8f0a31cc-9a99-4ac0-999f-815d0ffef52a"/>
+  <img src=<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8f0a31cc-9a99-4ac0-999f-815d0ffef52a" />
 </p>
 
 <h1 align="center">こんにちは, I'm Andryano Shevchenko Limbong! 🍥</h1>
