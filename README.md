@@ -40,7 +40,7 @@
 
 ## 🍥 Ninja Tools  
 <p align="center">
-  <img src="https://i.imgur.com/6R1ZC1H.gif" width="350" />
+  <img src="https://i.imgur.com/oUe93RG.mp4" width="350" />
 </p>
 
 - 🔧 Currently crafting: **Web Apps, Dashboards, and Systems**
